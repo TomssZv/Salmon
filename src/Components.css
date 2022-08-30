@@ -1,0 +1,129 @@
+h1 {
+    margin: 0;
+    position: relative;
+    top: 4vh;
+    left: 6vw;
+    font-size: 3rem;
+    color: #F1A661;
+  }
+
+  .left > .text {
+    color: #e4ad6f;
+  }
+
+  .text {
+    width: 20vw;
+    position: relative;
+    margin: 0;
+    word-spacing: 0.5rem;
+    font-weight: bold;
+    color: #E4F9F5;
+  }
+
+  .t1 {
+    top: -45vh;
+    left: 5vw;
+  }
+
+  .t2 {
+    top: -35vh;
+    left: 8vw;
+  }
+
+  .t3 {
+    top: -24vh;
+    left: 4vw;
+  }
+
+  button {
+    z-index: 10;
+  }
+  
+  .right > h1 {
+    color: #FFD8A9;
+  }
+  .right > .nav-side {
+    margin-left: 45vw;
+  }
+
+  .nav-side {
+    background-color: inherit;
+    position: absolute;
+    height: 3vw;
+    width: 3vw;
+    top: 45vh;
+    border-style: none;
+    border: solid 0.5rem white;
+    border-radius: 100%;
+    margin-left: 0.5vw;
+  }
+
+  .right > .images {
+    position: relative;
+    left: 29vw;
+    width: 20vw;
+    height: 60vh;
+  }
+
+  .images {
+    position: relative;
+    left: 30vw;
+    width: 20vw;
+    height: 60vh;
+  }
+
+  .second {
+    left: 40%;
+    top: -8%;
+  }
+
+  .third {
+    bottom: 15%;
+  }
+
+  .image-cont > img {
+    width: 10vw;
+    height: 10vw;
+    object-fit: cover;
+    object-position: 80% 100%;
+  }
+  
+  .image-cont {
+    position: relative;
+    height: 10vw;
+    width: 10vw;
+    background-color: white;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0 30%);
+  }
+
+  .container {
+    height: 100vh;
+    display: inline-flex;
+  }
+  
+  .left {
+    width: 51.5vw;
+    background-color: #FDEEDC;
+    clip-path: polygon(0 0, 100% 0, calc(100% - 5vw) 100%, 0% 100%);
+  }
+  
+  .right {
+    padding-left: 5vw;
+    width: 53.5vw;
+    margin-left: -5vw;
+    text-align: left;
+    background-color:#E38B29;
+    clip-path: polygon(5vw 0%, 100% 0%, 100% 100%, 0% 100%);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .cont {
+    overflow-y: hidden;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;
+  }
+  
+  

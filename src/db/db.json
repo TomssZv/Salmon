@@ -1,0 +1,47 @@
+{
+    "cardinfo":[{
+        "id": 1,
+        "title": "Salmon",
+        "text1": "Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling, and whitefish.",
+        "text2": "Eosalmo driftwoodensis, the oldest known salmon in the fossil record, helps scientists figure how the different species of salmon diverged from a common ancestor.",
+        "text3": "Fossil record indicate that salmon divergence occurred long before the glaciers (of Quaternary glaciation) began their cycle of advance and retreat.",
+        "image1": "https://images.pexels.com/photos/3304176/pexels-photo-3304176.jpeg",
+        "image2": "https://images.pexels.com/photos/6149078/pexels-photo-6149078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image3": "https://images.pexels.com/photos/6884267/pexels-photo-6884267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "side": "left",
+        "left": 1
+    }, {
+        "id": 2,
+        "title": "Habitat",
+        "text1": "Salmon are native to tributaries of the North Atlantic and Pacific Ocean. salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia.",
+        "text2": "Typically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce.",
+        "text3": "However, populations of several species are restricted to fresh water throughout their lives. A portion of a returning salmon run may stray and spawn in different freshwater systems.",
+        "image1": "https://thepicpac.com/packs/pack13/thumb-3.jpg",
+        "image2": "https://images.pexels.com/photos/1802268/pexels-photo-1802268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image3": "https://images.pexels.com/photos/2189700/pexels-photo-2189700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "side": "right",
+        "left": null
+    }, {
+        "id": 3,
+        "title": "Captive",
+        "text1": "Salmon fish farming started on an experimental level in the 1960s, but became an industry in Norway in the 1980s, and in Chile in the 1990s.",
+        "text2": "The farmed salmon industry has grown substantially in the past 40 years, and today approximately 60% of salmon produced worldwide is farmed.",
+        "text3": "Most salmon farms hold more than one-half million fish penned in open net-cages, mostly Atlantic salmon. There are over 100 open net-cage farms There are over 100 open net-cage farms.",
+        "image1": "https://images.pexels.com/photos/10436679/pexels-photo-10436679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image2": "https://images.unsplash.com/photo-1628859742240-269783f56d17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "image3": "https://images.pexels.com/photos/9022596/pexels-photo-9022596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "side": "left",
+        "left": 1
+    }, {
+        "id": 4,
+        "title": "Prepared",
+        "text1": "Salmon is a popular food. Classified as an oily fish, salmon is considered to be healthy due to the fish's high protein, high omega-3 fatty acids, and high vitamin D content.",
+        "text2": "Salmon can be eaten as raw, cold and hot smoked, canned. To the Indigenous peoples of the Pacific Northwest Coast, salmon is considered a vital part of the diet.",
+        "text3": "Salmon flesh is generally orange to red, although white-fleshed wild salmon with white-black skin colour occurs. The natural colour of salmon results from carotenoid pigments, astaxanthin, also canthaxanthin.",
+        "image1": "https://images.pexels.com/photos/9001197/pexels-photo-9001197.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image2": "https://images.pexels.com/photos/9001194/pexels-photo-9001194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image3": "https://images.pexels.com/photos/1028426/pexels-photo-1028426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "side": "right",
+        "left": null
+    }]
+}
